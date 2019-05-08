@@ -13,6 +13,16 @@ html {
 	align-items: center;
 }
 
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.display-row {
+    color: #00F900;
+}
+
 .keyboard_row {
 	display: flex;
 	flex-direction: row;
